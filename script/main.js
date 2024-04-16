@@ -1,2 +1,2 @@
-const myHeading = document.querySelector(h2);
-myHeading.textcontent = "Basic JavaScript";
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "Basic JavaScript";

@@ -13,3 +13,7 @@ let myArrayVariable = [1, "Bob", true, "Alex"];
 //Variable with Object Datatypes
 let myObjectVariables = document.querySelector("h2");
 myObjectVariables.textContent = "This is my Object Variables";
+
+/*
+This is a long comment. With linebreaks.
+*/
